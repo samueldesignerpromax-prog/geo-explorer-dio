@@ -1,0 +1,51 @@
+{
+  "trilhas": [
+    {
+      "id": "python",
+      "nome": "Python para Dados",
+      "nivel": "iniciante",
+      "horas": 40,
+      "descricao": "Aprenda Python focado em análise de dados.",
+      "modulos": [
+        {"titulo": "Introdução ao Python", "horas": 8},
+        {"titulo": "Pandas e NumPy", "horas": 16},
+        {"titulo": "Visualização com Matplotlib", "horas": 16}
+      ]
+    },
+    {
+      "id": "ia",
+      "nome": "Inteligência Artificial",
+      "nivel": "intermediario",
+      "horas": 60,
+      "descricao": "Fundamentos de IA e machine learning.",
+      "modulos": [
+        {"titulo": "Conceitos de IA", "horas": 12},
+        {"titulo": "Machine Learning", "horas": 24},
+        {"titulo": "Redes Neurais", "horas": 24}
+      ]
+    },
+    {
+      "id": "cloud",
+      "nome": "Cloud com IBM",
+      "nivel": "iniciante",
+      "horas": 30,
+      "descricao": "Introdução à computação em nuvem com IBM Cloud.",
+      "modulos": [
+        {"titulo": "Fundamentos de Cloud", "horas": 10},
+        {"titulo": "Serviços IBM Cloud", "horas": 20}
+      ]
+    },
+    {
+      "id": "devops",
+      "nome": "DevOps Essencial",
+      "nivel": "avancado",
+      "horas": 50,
+      "descricao": "CI/CD, containers e automação.",
+      "modulos": [
+        {"titulo": "Git e CI/CD", "horas": 15},
+        {"titulo": "Docker e Kubernetes", "horas": 20},
+        {"titulo": "Monitoramento", "horas": 15}
+      ]
+    }
+  ]
+}
